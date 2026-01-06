@@ -81,9 +81,9 @@ const gameContentVariants = {
     x: -80,
     transition: {
       type: 'spring' as const,
-      stiffness: 400,
-      damping: 35,
-      mass: 0.6
+      stiffness: 350,
+      damping: 30,
+      mass: 0.7
     }
   }
 };
